@@ -7,11 +7,11 @@
   💼 Freelance 100% remote ou en mission, je maîtrise le cycle complet du développement.<br>
   🎯 Toujours en quête d’innovation et d’apprentissage continu.<br>
   <p align="center" style="font-size:16px;">
-    🙋🏻‍♂️ You can send me an email :  
+    🙋🏻‍♂️ You can send me an email : <br> 
     <a href="mailto:gonta.gabriel.pro@gmail.com">
       <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
     </a><br><br>
-    📄 Access my CV here :  
+    📄 Access my CV here : <br>
     <a href="https://github.com/gabrielgonta/gabrielgonta/blob/main/CV_Freelance_Gabriel_Gonta.pdf.pdf">
       <img src="https://img.shields.io/badge/CV-Download-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge">
     </a>
@@ -131,8 +131,8 @@
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  📧 You can send me an email :  
-  <a href="mailto:gonta.gabriel.pro@gmail.com">
+  📧 You can send me an email : <br>
+  <a align="center" href="mailto:gonta.gabriel.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a><br><br>
 
