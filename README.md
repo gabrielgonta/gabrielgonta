@@ -10,9 +10,19 @@
 
 ---
 
+<p align="center">
+  <em>Je combine rigueur et créativité pour construire des solutions web qui font la différence.</em>
+</p>
+
+---
+
 <h3 align="center">🎯 Mes compétences techniques</h3>
 
-<h4>🖥️ Développement Web Full Stack</h4>
+<p align="center">
+  <em>Des technologies solides pour des projets robustes et innovants.</em>
+</p>
+
+<h4>🖥️ Développement Web Front-End</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -23,6 +33,10 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+<p align="center">
+  <em>Je crée des interfaces utilisateur réactives, élégantes et accessibles.</em>
 </p>
 
 <h4>Back-End & Bases de données</h4>
@@ -38,6 +52,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/DBVisualizer-3D3D3D?style=for-the-badge" alt="DBVisualizer" />
   <img src="https://img.shields.io/badge/phpMyAdmin-EF4F4F?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/MAMP-5C5C5C?style=for-the-badge&logo=mamp&logoColor=white" alt="MAMP" />
+</p>
+
+<p align="center">
+  <em>Conception et gestion efficaces de la logique métier et des données.</em>
 </p>
 
 <h4>Outils & Frameworks</h4>
@@ -49,9 +68,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+<p align="center">
+  <em>Des outils puissants pour assurer la qualité et la productivité.</em>
+</p>
+
 ---
 
-<h3 align="center">🔐 Cybersécurité & DevOps (Bonus)</h3>
+<h3 align="center">🔐 Cybersécurité & DevOps</h3>
+
+<p align="center">
+  <em>Protection, surveillance et optimisation des systèmes informatiques.</em>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -75,9 +103,14 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
+<p align="center">
+  <em>Des compétences étendues pour assurer la sécurité et la performance des systèmes.</em>
+</p>
+
 ---
 
 <h3 align="center">🛠️ Environnements & Outils de travail</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -87,16 +120,26 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
+<p align="center">
+  <em>Des environnements polyvalents pour des projets flexibles et modernes.</em>
+</p>
+
 ---
 
 <h3 align="center">🔥 Statistiques GitHub</h3>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gabrielgonta&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgonta&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats GitHub Gabriel" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgonta&layout=compact&theme=radical&hide_border=true" alt="Langages principaux" />
+    <img src="https://streak-stats.demolab.com?user=gabrielgonta&theme=shadow_red&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgonta&show_icons=true&theme=shadow_red&count_private=true&hide_border=true" alt="Stats GitHub Gabriel" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgonta&layout=compact&theme=shadow_red&hide_border=true" alt="Langages principaux" />
 </p>
 
 ---
