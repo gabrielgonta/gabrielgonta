@@ -1,43 +1,42 @@
-<h1 align="center">Salut, je suis Gabriel Gonta ! 👋</h1>
+<h1 align="center">Hi, I'm Gabriel Gonta! 👋</h1>
 
-<h3 align="center">🚀 Développeur Web Full Stack & Passionné de Cybersécurité</h3>
+<h3 align="center">🚀 Full Stack Web Developer & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  🌍 Basé à Nice, je crée des applications web performantes, sécurisées et modernes.<br>
-  💼 Freelance 100% remote ou en mission, je maîtrise le cycle complet du développement.<br>
-  🎯 Toujours en quête d’innovation et d’apprentissage continu.<br>
-  <h4 align="center"> 🙋🏻‍♂️ You can send me an email : <h4>
-  <p align="center">
-    <a href="mailto:gonta.gabriel.pro@gmail.com">
-      <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-    </a><br><br>
-    <br>
-  </p>
+  🌍 Based in Nice, I build fast, secure, and modern web applications.<br>
+  💼 Freelance 100% remote or on-site missions, I manage the full development cycle.<br>
+  🎯 Always seeking innovation and continuous learning.<br>
+</p>
 
-  <h4 align="center"> 📄 Access my CV here :  <h4>
-  <p align="center">
-    <a href="https://github.com/gabrielgonta/gabrielgonta/blob/main/CV_Freelance_Gabriel_Gonta.pdf.pdf">
-      <img src="https://img.shields.io/badge/CV-Download-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge">
-    </a><br><br>
-    <br>
-  </p>
+<h4 align="center"> 🙋🏻‍♂️ You can send me an email: </h4>
+<p align="center">
+  <a href="mailto:gonta.gabriel.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a><br>
+</p>
+
+<h4 align="center"> 📄 Access my CV here: </h4>
+<p align="center">
+  <a href="https://github.com/gabrielgonta/gabrielgonta/blob/main/CV_Freelance_Gabriel_Gonta.pdf.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge">
+  </a><br>
 </p>
 
 ---
 
 <p align="center">
-  <em>Je combine rigueur et créativité pour construire des solutions web qui font la différence.</em>
+  <em>I combine precision and creativity to build web solutions that make a difference.</em>
 </p>
 
 ---
 
-<h3 align="center">🎯 Développement Web et mobile Full-Stack</h3>
+<h3 align="center">🎯 Full-Stack Web & Mobile Development</h3>
 
 <p align="center">
-  <em>J'utilise des technologies puissantes pour des projets innovants.</em>
+  <em>I use powerful technologies to build innovative projects.</em>
 </p>
 
-<h4 align="center" >🖥️ Développement Web Front-End</h4>
+<h4 align="center">🖥️ Front-End Web Development</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -50,7 +49,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<h4 align="center">⚙️ Back-End & Bases de données</h4>
+<h4 align="center">⚙️ Back-End & Databases</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -66,7 +65,7 @@
   <img src="https://img.shields.io/badge/MAMP-5C5C5C?style=for-the-badge&logo=mamp&logoColor=white" alt="MAMP" />
 </p>
 
-<h4 align="center">🔨 Outils & Frameworks</h4>
+<h4 align="center">🔨 Tools & Frameworks</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
@@ -77,10 +76,10 @@
 
 ---
 
-<h3 align="center">🔐 Cybersécurité & DevOps</h3>
+<h3 align="center">🔐 Cybersecurity & DevOps</h3>
 
 <p align="center">
-  <em>Protection, surveillance et optimisation des systèmes informatiques.</em>
+  <em>Securing, monitoring, and optimizing IT systems.</em>
 </p>
 
 <p align="center">
@@ -107,10 +106,10 @@
 
 ---
 
-<h3 align="center">🛠️ Environnements & Outils de travail</h3>
+<h3 align="center">🛠️ Work Environments & Tools</h3>
 
 <p align="center">
-  <em>Des environnements polyvalents pour des projets flexibles et modernes.</em>
+  <em>Versatile environments for flexible and modern projects.</em>
 </p>
 
 <p align="center">
@@ -125,35 +124,34 @@
 
 ---
 
-<h3 align="center">🔥 Statistiques GitHub</h3>
+<h3 align="center">🔥 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgonta&layout=donut&theme=shadow_red&hide_border=true" alt="Langages principaux" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgonta&layout=donut&theme=shadow_red&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="center">📫 Contact</h3>
-  <h4 align="center"> 📧 You can send me an email : </h4>
-  <p align="center">
-    <a align="center" href="mailto:gonta.gabriel.pro@gmail.com">
-      <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-    </a><br><br>
-  </p>
 
-  <h4 align="center"> 👨🏻‍💻 Check out all my projects on my portfolio : </h4>
-  <p align="center">  
-    <a align="center" href="https://gabrielgonta.com">
-      <img src="https://img.shields.io/badge/Portfolio-gabrielgonta.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
-    </a><br><br>
-  </p>
-  
-  <h4 align="center"> You can check my profiles : <h4>
-  <p align="center">
-    <a align="center" href="https://www.linkedin.com/in/gabriel-gonta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title="My linkedin profile"></a>
-    <a align="center" href="https://www.instagram.com/gab._riel.g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title="My instragram profile"></a>
-    <br>
-  </p>
+<h4 align="center"> 📧 You can send me an email: </h4>
+<p align="center">
+  <a href="mailto:gonta.gabriel.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a><br><br>
+</p>
+
+<h4 align="center"> 👨🏻‍💻 Check out all my projects on my portfolio: </h4>
+<p align="center">
+  <a href="https://gabrielgonta.com">
+    <img src="https://img.shields.io/badge/Portfolio-gabrielgonta.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+  </a><br><br>
+</p>
+
+<h4 align="center"> You can check my profiles: </h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-gonta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" title="LinkedIn profile"></a>
+  <a href="https://www.instagram.com/gab._riel.g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" title="Instagram profile"></a>
 </p>
 
 ---
