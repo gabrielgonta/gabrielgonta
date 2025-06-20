@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Gabriel Gonta !</h1>
+<h1 align="center">Salut, je suis Gabriel Gonta ! 👋</h1>
 
 <h3 align="center">🚀 Développeur Web Full Stack & Passionné de Cybersécurité</h3>
 
@@ -6,6 +6,17 @@
   🌍 Basé à Nice, je crée des applications web performantes, sécurisées et modernes.<br>
   💼 Freelance 100% remote ou en mission, je maîtrise le cycle complet du développement.<br>
   🎯 Toujours en quête d’innovation et d’apprentissage continu.<br>
+  <p align="center" style="font-size:16px;">
+    🙋🏻‍♂️ You can send me an email at 
+    <a href="mailto:gabriel.gonta.pro@gmail.com" style="color:#0078D6; text-decoration:none; font-weight:bold; transition:0.3s;">
+      gabriel.gonta.pro@gmail.com
+    </a>
+    <br>
+    📄 You can access my curriculum vitae 
+    <a href="https://github.com/gabrielgonta/gabrielgonta/blob/main/CV_Freelance_Gabriel_Gonta.pdf.pdf" style="color:#43A047; text-decoration:none; font-weight:bold; transition:0.3s;">
+      here
+    </a>
+  </p>
 </p>
 
 ---
@@ -16,13 +27,13 @@
 
 ---
 
-<h3 align="center">🎯 Mes compétences techniques</h3>
+<h3 align="center">🎯 Développement Web et mobile Full-Stack</h3>
 
 <p align="center">
-  <em>Des technologies solides pour des projets robustes et innovants.</em>
+  <em>J'utilise des technologies puissantes pour des projets innovants.</em>
 </p>
 
-<h4>🖥️ Développement Web Front-End</h4>
+<h4 align="center" >🖥️ Développement Web Front-End</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -35,11 +46,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-<p align="center">
-  <em>Je crée des interfaces utilisateur réactives, élégantes et accessibles.</em>
-</p>
-
-<h4>Back-End & Bases de données</h4>
+<h4 align="center">⚙️ Back-End & Bases de données</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -55,21 +62,13 @@
   <img src="https://img.shields.io/badge/MAMP-5C5C5C?style=for-the-badge&logo=mamp&logoColor=white" alt="MAMP" />
 </p>
 
-<p align="center">
-  <em>Conception et gestion efficaces de la logique métier et des données.</em>
-</p>
-
-<h4>Outils & Frameworks</h4>
+<h4 align="center">🔨 Outils & Frameworks</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<p align="center">
-  <em>Des outils puissants pour assurer la qualité et la productivité.</em>
 </p>
 
 ---
@@ -90,7 +89,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0078D7?style=for-the-badge" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Virtualisation-4CAF50?style=for-the-badge" alt="Virtualisation" />
 </p>
 
@@ -103,25 +101,22 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-<p align="center">
-  <em>Des compétences étendues pour assurer la sécurité et la performance des systèmes.</em>
-</p>
-
 ---
 
 <h3 align="center">🛠️ Environnements & Outils de travail</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <em>Des environnements polyvalents pour des projets flexibles et modernes.</em>
 </p>
 
 <p align="center">
-  <em>Des environnements polyvalents pour des projets flexibles et modernes.</em>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
@@ -129,17 +124,7 @@
 <h3 align="center">🔥 Statistiques GitHub</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gabrielgonta&theme=shadow_red&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgonta&show_icons=true&theme=shadow_red&count_private=true&hide_border=true" alt="Stats GitHub Gabriel" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgonta&layout=compact&theme=shadow_red&hide_border=true" alt="Langages principaux" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgonta&layout=donut&theme=shadow_red&hide_border=true" alt="Langages principaux" />
 </p>
 
 ---
@@ -147,14 +132,21 @@
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  📧 <a href="mailto:gonta.gabriel.pro@gmail.com">gonta.gabriel.pro@gmail.com</a><br>
-  🔗 <a href="https://www.linkedin.com/in/gabriel-gonta/">LinkedIn</a> | 🌐 <a href="https://gabrielgonta.com">Portfolio</a>
+  <p align="center" style="font-size:16px;">
+    📧 You can send me an email at : 
+    <a href="mailto:gonta.gabriel.pro@gmail.com" style="color:#0078D6; text-decoration:none; font-weight:bold; transition:0.3s;">
+      gonta.gabriel.pro@gmail.com
+    </a>
+    <br>
+    👨🏻‍💻 You can check all my projects on my 
+    <a href="https://gabrielgonta.com" style="color:#F57C00; text-decoration:none; font-weight:bold; transition:0.3s;">
+      portfolio
+    </a>
+  </p>
+  You can check my profiles :
+    <a href="https://www.linkedin.com/in/gabriel-gonta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title="My linkedin profile"></a>
+    <a href="https://www.instagram.com/gab._riel.g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title="My instragram profile"></a>
+    <br>
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/gabrielgonta">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgonta&theme=radical" alt="Graphique d'activité GitHub" />
-  </a>
-</p>
