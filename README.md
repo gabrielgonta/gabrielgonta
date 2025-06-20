@@ -131,19 +131,19 @@
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  📧 You can send me an email : <br>
+  <h4 align="center"> 📧 You can send me an email : </h4><br><br>
   <a align="center" href="mailto:gonta.gabriel.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a><br><br>
 
   <p align="center">
-    👨🏻‍💻 Check out all my projects on my portfolio : <br>
+    <h4 align="center"> 👨🏻‍💻 Check out all my projects on my portfolio : </h4><br><br>
     <a align="center" href="https://gabrielgonta.com">
       <img src="https://img.shields.io/badge/Portfolio-gabrielgonta.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
     </a><br><br>
   </p>
   <p align="center">
-    You can check my profiles : <br>
+    <h4 align="center"> You can check my profiles : <h4><br><br>
       <a align="center" href="https://www.linkedin.com/in/gabriel-gonta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title="My linkedin profile"></a>
       <a align="center" href="https://www.instagram.com/gab._riel.g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title="My instragram profile"></a>
       <br>
