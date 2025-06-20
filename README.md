@@ -7,14 +7,13 @@
   💼 Freelance 100% remote ou en mission, je maîtrise le cycle complet du développement.<br>
   🎯 Toujours en quête d’innovation et d’apprentissage continu.<br>
   <p align="center" style="font-size:16px;">
-    🙋🏻‍♂️ You can send me an email at 
-    <a href="mailto:gabriel.gonta.pro@gmail.com" style="color:#0078D6; text-decoration:none; font-weight:bold; transition:0.3s;">
-      gabriel.gonta.pro@gmail.com
-    </a>
-    <br>
-    📄 You can access my curriculum vitae 
-    <a href="https://github.com/gabrielgonta/gabrielgonta/blob/main/CV_Freelance_Gabriel_Gonta.pdf.pdf" style="color:#43A047; text-decoration:none; font-weight:bold; transition:0.3s;">
-      here
+    🙋🏻‍♂️ You can send me an email :  
+    <a href="mailto:gonta.gabriel.pro@gmail.com">
+      <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    </a><br><br>
+    📄 Access my CV here :  
+    <a href="https://github.com/gabrielgonta/gabrielgonta/blob/main/CV_Freelance_Gabriel_Gonta.pdf.pdf">
+      <img src="https://img.shields.io/badge/CV-Download-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge">
     </a>
   </p>
 </p>
@@ -132,17 +131,15 @@
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  <p align="center" style="font-size:16px;">
-    📧 You can send me an email at : 
-    <a href="mailto:gonta.gabriel.pro@gmail.com" style="color:#0078D6; text-decoration:none; font-weight:bold; transition:0.3s;">
-      gonta.gabriel.pro@gmail.com
-    </a>
-    <br>
-    👨🏻‍💻 You can check all my projects on my 
-    <a href="https://gabrielgonta.com" style="color:#F57C00; text-decoration:none; font-weight:bold; transition:0.3s;">
-      portfolio
-    </a>
-  </p>
+  📧 You can send me an email :  
+  <a href="mailto:gonta.gabriel.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gonta.gabriel.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a><br><br>
+
+  👨🏻‍💻 Check out all my projects on my portfolio :  
+  <a href="https://gabrielgonta.com">
+    <img src="https://img.shields.io/badge/Portfolio-gabrielgonta.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+  </a><br><br>
   You can check my profiles :
     <a href="https://www.linkedin.com/in/gabriel-gonta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title="My linkedin profile"></a>
     <a href="https://www.instagram.com/gab._riel.g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title="My instragram profile"></a>
